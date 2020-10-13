@@ -7,3 +7,6 @@
 
 ### Building a RESTful API with Koa and Postgres: 
 > https://mherman.org/blog/building-a-restful-api-with-koa-and-postgres/
+
+### Heroku in Ubuntu
+> https://stackoverflow.com/questions/12795498/heroku-command-not-found/ 
