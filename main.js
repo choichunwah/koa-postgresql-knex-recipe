@@ -1,5 +1,7 @@
 // Lib
 import Koa from 'koa';
+
+// Route
 import indexRoutes from './src/server/routes/index.js';
 import recipesRoutes from './src/server/routes/recipes.js';
 
@@ -9,9 +11,10 @@ const PORT = process.env.PORT || 8000;
 
 // Middleware
 app.use(indexRoutes.routes());
-// app.use(recipesRoutes.routes());
+app.use(recipesRoutes.routes());
 
 // Run
 export const server = app.listen(PORT, () => {
     console.log(`Server listening on port: ${PORT}`);
+    console.log(`process.env.NODE_ENV ${process.env.NODE_ENV}`)
 });

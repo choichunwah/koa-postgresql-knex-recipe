@@ -10,3 +10,9 @@
 
 ### Heroku in Ubuntu
 > https://stackoverflow.com/questions/12795498/heroku-command-not-found/ 
+
+### SyntaxError: Cannot use import statement outside a module
+> https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module
+
+### An example Koa application that glues together Koa + Postgres + good defaults + common abstractions
+> https://github.com/danneu/koa-skeleton
