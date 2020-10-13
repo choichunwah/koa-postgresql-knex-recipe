@@ -9,7 +9,7 @@ const PORT = 8000;
 
 // Middleware
 app.use(indexRoutes.routes());
-app.use(recipesRoutes.routes());
+// app.use(recipesRoutes.routes());
 
 // Run
 export const server = app.listen(PORT, () => {
