@@ -1,17 +1,12 @@
-const knex = require('../connection');
+import myKnex from '../connection.js';
 
-function getAllRecipes() {
-    return knex('recipes')
+export function getAllRecipes() {
+    return myKnex('recipes')
         .select('*');
 }
 
-function getSingleRecipe(id) {
-    return knex('recipes')
+export function getSingleRecipe(id) {
+    return myKnex('recipes')
         .select('*')
         .where({ id: parseInt(id) });
 }
-
-module.exports = {
-    getAllRecipes,
-    getSingleRecipe
-};

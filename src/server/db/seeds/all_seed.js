@@ -2,8 +2,6 @@
 const fs = require('fs');
 const util = require('util');
 const XLSX = require('xlsx');
-// const sheet_name_list = workbook.SheetNames;
-// console.log(XLSX.utils.sheet_to_json(workbook.Sheets[sheet_name_list[0]]))
 
 // Util
 const writeFile = util.promisify(fs.writeFile);
@@ -175,20 +173,4 @@ exports.seed = async(knex, Promise) => {
     }
 
     await writeFile(`./src/server/db/seeds/${today}/recipesIngredientsTable.txt`, JSON.stringify(recipesIngredientsTable, null, 2))
-
-    // // const ingredientsCategoryTableString = await readFile(`./seeds/${today}/ingredientsTableWithCategories.txt`, 'utf8')
-    // // const ingredientsCategoryTable = JSON.parse(ingredientsCategoryTableString)
-
-    // let n5 = 1
-    // for (let item of ingredientsTable) {
-    //     console.log(item['id'], item['category_id'])
-    //     if (item['id'] && item['category_id']) {
-    //         await knex("ingredients_categories").insert([{
-    //             category_id: item['category_id'],
-    //             id: n5,
-    //             ingredient_id: item['id']
-    //         }])
-    //         n5++
-    //     }
-    // }
 }

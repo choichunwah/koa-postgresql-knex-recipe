@@ -1,9 +1,9 @@
 // Lib
-const Router = require('koa-router');
+import Router from 'koa-router';
 const router = new Router();
 
 // Services
-const queries = require('../db/queries/recipes');
+import * as queries from '../db/queries/recipes.js';
 
 // Const 
 const BASE_URL = `/recipes`;
@@ -50,4 +50,4 @@ router.get(`${BASE_URL}/:id`, async(ctx) => {
 });
 
 // Export 
-module.exports = router;
+export default router;

@@ -1,5 +1,5 @@
 // Lib
-const Router = require('koa-router');
+import Router from 'koa-router';
 const router = new Router();
 
 // Route
@@ -10,5 +10,4 @@ router.get('/', async(ctx) => {
     };
 });
 
-// Export
-module.exports = router;
+export default router;

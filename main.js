@@ -1,7 +1,7 @@
-// Lib 
-const Koa = require('koa');
-const indexRoutes = require('./src/server/routes/index');
-const recipesRoutes = require('./src/server/routes/recipes');
+// Lib
+import Koa from 'koa';
+import indexRoutes from './src/server/routes/index.js';
+import recipesRoutes from './src/server/routes/recipes.js';
 
 // Const
 const app = new Koa();
@@ -12,8 +12,6 @@ app.use(indexRoutes.routes());
 app.use(recipesRoutes.routes());
 
 // Run
-const server = app.listen(PORT, () => {
+export const server = app.listen(PORT, () => {
     console.log(`Server listening on port: ${PORT}`);
 });
-
-module.exports = server;

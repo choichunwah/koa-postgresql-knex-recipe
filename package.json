@@ -1,29 +1,29 @@
 {
-  "name": "koa-postgresql-knex-recipe",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/choichunwah/koa-postgresql-knex-recipe.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/choichunwah/koa-postgresql-knex-recipe/issues"
-  },
-  "homepage": "https://github.com/choichunwah/koa-postgresql-knex-recipe#readme",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "excel": "^1.0.1",
-    "knex": "^0.21.6",
-    "koa": "^2.13.0",
-    "koa-router": "^9.4.0",
-    "pg": "^8.4.1",
-    "sqlite3": "^5.0.0",
-    "xlsx": "^0.16.8"
-  }
+    "name": "koa-postgresql-knex-recipe",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/choichunwah/koa-postgresql-knex-recipe.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/choichunwah/koa-postgresql-knex-recipe/issues"
+    },
+    "homepage": "https://github.com/choichunwah/koa-postgresql-knex-recipe#readme",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "knex": "^0.21.6",
+        "koa": "^2.13.0",
+        "koa-router": "^9.4.0",
+        "pg": "^8.4.1",
+        "sqlite3": "^5.0.0",
+        "xlsx": "^0.16.8"
+    }
 }
