@@ -1,2 +1,1 @@
-web: knex migrate:latest
-web: knex seed:run
+web: knex migrate:latest && knex seed:run
