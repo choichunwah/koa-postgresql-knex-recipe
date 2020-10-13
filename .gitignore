@@ -1,3 +1,19 @@
+# main
+.env
+uploads
+uploads/
+
+# yarn
+yarn.lock
+yarn.error
+
+# mac
+.DS_Store
+
+# ubuntu
+.Identifier
+
+# other
 secret.yml
 config/database.yml
 /db/*.sqlite3

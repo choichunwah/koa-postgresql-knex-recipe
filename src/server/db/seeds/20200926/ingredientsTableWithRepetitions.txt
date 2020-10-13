@@ -1,0 +1,3628 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "肥牛",
+    "ingredient_description": "1盒",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "大蔥",
+    "ingredient_description": "2棵",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "蒜",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "紅蔥頭",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 1,
+    "recipe_name": "大蔥炒牛肉",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "梅菜蒸菜心",
+    "ingredient_name": "梅菜",
+    "ingredient_description": "1棵",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "梅菜蒸菜心",
+    "ingredient_name": "菜心",
+    "ingredient_description": "半斤",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "梅菜蒸菜心",
+    "ingredient_name": "蒜",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "梅菜蒸菜心",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "梅菜蒸菜心",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "梅菜蒸菜心",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "豉汁帶子蒸豆腐",
+    "ingredient_name": "布包豆腐",
+    "ingredient_description": "2件",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "豉汁帶子蒸豆腐",
+    "ingredient_name": "帶子",
+    "ingredient_description": "6 粒",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "豉汁帶子蒸豆腐",
+    "ingredient_name": "豆豉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "豉汁帶子蒸豆腐",
+    "ingredient_name": "蒜",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "豉汁帶子蒸豆腐",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "豉汁帶子蒸豆腐",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "豉汁帶子蒸豆腐",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "鮮魷",
+    "ingredient_description": "2條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "薑",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "蒜",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "蔥",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "粉絲",
+    "ingredient_description": "1札",
+    "ingredient_category_no": "1"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "蝦醬",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "蝦醬蒸鮮魷",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "牛柳粒",
+    "ingredient_description": "1磅",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "蒜",
+    "ingredient_description": "8粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "黑椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "蒜片牛柳粒",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "煎蝦餅",
+    "ingredient_name": "蝦",
+    "ingredient_description": "冰鮮/新鮮 1斤左右",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "煎蝦餅",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "煎蝦餅",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "煎蝦餅",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "銀魚仔蒸豆腐",
+    "ingredient_name": "銀魚仔",
+    "ingredient_description": "半碗",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "銀魚仔蒸豆腐",
+    "ingredient_name": "布包豆腐",
+    "ingredient_description": "2件",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "銀魚仔蒸豆腐",
+    "ingredient_name": "辣椒",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "銀魚仔蒸豆腐",
+    "ingredient_name": "薑",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "銀魚仔蒸豆腐",
+    "ingredient_name": "蔥",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "銀魚仔蒸豆腐",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "銀魚仔蒸豆腐",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "蕃茄",
+    "ingredient_description": "3個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "蛋",
+    "ingredient_description": "4隻",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "茄汁",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "蕃茄炒蛋 ",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "蒜蓉豆豉炒油麥菜",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "蒜蓉豆豉炒油麥菜",
+    "ingredient_name": "豆豉",
+    "ingredient_description": "1-2湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "蒜蓉豆豉炒油麥菜",
+    "ingredient_name": "薑",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "蒜蓉豆豉炒油麥菜",
+    "ingredient_name": "油麥菜",
+    "ingredient_description": "1斤",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "蒜蓉豆豉炒油麥菜",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "蒜蓉豆豉炒油麥菜",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "蒜蓉豆豉炒油麥菜",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "陳皮蒸馬友",
+    "ingredient_name": "馬友",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "陳皮蒸馬友",
+    "ingredient_name": "陳皮",
+    "ingredient_description": "1 塊",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "陳皮蒸馬友",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "陳皮蒸馬友",
+    "ingredient_name": "蒸魚豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "陳皮蒸馬友",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "蒜頭",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "豆腐",
+    "ingredient_description": "2磚",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "半肥瘦肉碎",
+    "ingredient_description": "$20 (半碗左右)",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "豆瓣醬",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "蔥",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "紅燒豆腐 ",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 12,
+    "recipe_name": "清蒸石蚌",
+    "ingredient_name": "石蚌",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 12,
+    "recipe_name": "清蒸石蚌",
+    "ingredient_name": "薑",
+    "ingredient_description": "4-5 片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 12,
+    "recipe_name": "清蒸石蚌",
+    "ingredient_name": "蔥",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 12,
+    "recipe_name": "清蒸石蚌",
+    "ingredient_name": "蒸魚豉油",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 12,
+    "recipe_name": "清蒸石蚌",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 13,
+    "recipe_name": "清蒸水蛋",
+    "ingredient_name": "蛋",
+    "ingredient_description": "3隻",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 13,
+    "recipe_name": "清蒸水蛋",
+    "ingredient_name": "雞湯",
+    "ingredient_description": "250mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 13,
+    "recipe_name": "清蒸水蛋",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 13,
+    "recipe_name": "清蒸水蛋",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 14,
+    "recipe_name": "白焯蝦",
+    "ingredient_name": "新鮮蝦",
+    "ingredient_description": "8-10隻",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 15,
+    "recipe_name": "煎青根",
+    "ingredient_name": "青根仔",
+    "ingredient_description": "4條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 15,
+    "recipe_name": "煎青根",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 15,
+    "recipe_name": "煎青根",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 16,
+    "recipe_name": "陳皮蒸鮑魚",
+    "ingredient_name": "陳皮",
+    "ingredient_description": "1塊,  鮮鮑魚仔4 6隻",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 16,
+    "recipe_name": "陳皮蒸鮑魚",
+    "ingredient_name": "蒸魚豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 16,
+    "recipe_name": "陳皮蒸鮑魚",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 17,
+    "recipe_name": "金銀蛋浸菠菜",
+    "ingredient_name": "皮蛋",
+    "ingredient_description": "1隻",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 17,
+    "recipe_name": "金銀蛋浸菠菜",
+    "ingredient_name": "咸蛋",
+    "ingredient_description": "1隻",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 17,
+    "recipe_name": "金銀蛋浸菠菜",
+    "ingredient_name": "菠菜",
+    "ingredient_description": "1斤",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 17,
+    "recipe_name": "金銀蛋浸菠菜",
+    "ingredient_name": "水/雞湯",
+    "ingredient_description": "200-300ml",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 17,
+    "recipe_name": "金銀蛋浸菠菜",
+    "ingredient_name": "蒜",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 17,
+    "recipe_name": "金銀蛋浸菠菜",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 18,
+    "recipe_name": "腐乳通菜",
+    "ingredient_name": "通菜",
+    "ingredient_description": "1斤",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 18,
+    "recipe_name": "腐乳通菜",
+    "ingredient_name": "腐乳",
+    "ingredient_description": "2磚",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 18,
+    "recipe_name": "腐乳通菜",
+    "ingredient_name": "蒜",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 18,
+    "recipe_name": "腐乳通菜",
+    "ingredient_name": "薑",
+    "ingredient_description": "3片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 18,
+    "recipe_name": "腐乳通菜",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 19,
+    "recipe_name": "銀魚仔炒白菜",
+    "ingredient_name": "銀魚仔",
+    "ingredient_description": "半碗",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 19,
+    "recipe_name": "銀魚仔炒白菜",
+    "ingredient_name": "白菜",
+    "ingredient_description": "1斤",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "半肥瘦豬肉碎",
+    "ingredient_description": "$20 (半碗左右)",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "布包豆腐",
+    "ingredient_description": "2個",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "紅蔥頭",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "豆辦醬",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "玫瑰露酒/米酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "麻婆豆腐",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "白菜",
+    "ingredient_description": "",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "娃娃菜",
+    "ingredient_description": "",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "菜心",
+    "ingredient_description": "各少許",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "薑",
+    "ingredient_description": "3片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3粒,粉絲1 1包",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "冬菇",
+    "ingredient_description": "2隻",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "蝦乾",
+    "ingredient_description": "5隻",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "瑤柱",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "雞湯",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 21,
+    "recipe_name": "粉絲雜菜煲",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 22,
+    "recipe_name": "滑蛋蝦仁",
+    "ingredient_name": "雞蛋",
+    "ingredient_description": "4隻",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 22,
+    "recipe_name": "滑蛋蝦仁",
+    "ingredient_name": "蝦",
+    "ingredient_description": "適量,  鮮奶5 少許",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 22,
+    "recipe_name": "滑蛋蝦仁",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 22,
+    "recipe_name": "滑蛋蝦仁",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 22,
+    "recipe_name": "滑蛋蝦仁",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "西芹",
+    "ingredient_description": "2-3條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "雞柳",
+    "ingredient_description": "4-5條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "薑",
+    "ingredient_description": "3片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 23,
+    "recipe_name": "西芹炒雞柳",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "雞髀",
+    "ingredient_description": "4隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "黑椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "蜜糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 24,
+    "recipe_name": "豉油雞髀",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "紅椒",
+    "ingredient_description": "半個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "黃椒",
+    "ingredient_description": "半個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "青椒",
+    "ingredient_description": "半個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "牛柳粒",
+    "ingredient_description": "1磅",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "黑椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 25,
+    "recipe_name": "彩椒炒牛柳粒",
+    "ingredient_name": "喼汁",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 26,
+    "recipe_name": "胡椒蝦",
+    "ingredient_name": "蝦",
+    "ingredient_description": "12 隻 蒜頭6",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 26,
+    "recipe_name": "胡椒蝦",
+    "ingredient_name": "蔥",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 26,
+    "recipe_name": "胡椒蝦",
+    "ingredient_name": "米酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 26,
+    "recipe_name": "胡椒蝦",
+    "ingredient_name": "黑胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 26,
+    "recipe_name": "胡椒蝦",
+    "ingredient_name": "白胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "花甲",
+    "ingredient_description": "18隻",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "白蘿蔔",
+    "ingredient_description": "半條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "薑",
+    "ingredient_description": "2片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "乾蔥頭",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "蔥白",
+    "ingredient_description": "6條",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "唐芹",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "紹興酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 27,
+    "recipe_name": "白蘿蔔煮花甲",
+    "ingredient_name": "麻油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 28,
+    "recipe_name": "花甲蒸水蛋",
+    "ingredient_name": "花甲",
+    "ingredient_description": "14隻",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 28,
+    "recipe_name": "花甲蒸水蛋",
+    "ingredient_name": "蛋",
+    "ingredient_description": "3隻",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 28,
+    "recipe_name": "花甲蒸水蛋",
+    "ingredient_name": "雞湯",
+    "ingredient_description": "250mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 28,
+    "recipe_name": "花甲蒸水蛋",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "棕磨菇",
+    "ingredient_description": "8隻",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "素雞",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "布包豆腐",
+    "ingredient_description": "1件",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "紅蔥頭",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "薑",
+    "ingredient_description": "3片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "紹興酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "雞湯",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 29,
+    "recipe_name": "磨菇豆腐煮素雞",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 30,
+    "recipe_name": "豉汁蒸倉魚",
+    "ingredient_name": "果皮",
+    "ingredient_description": "1塊",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 30,
+    "recipe_name": "豉汁蒸倉魚",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3-4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 30,
+    "recipe_name": "豉汁蒸倉魚",
+    "ingredient_name": "糖",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 30,
+    "recipe_name": "豉汁蒸倉魚",
+    "ingredient_name": "豆豉",
+    "ingredient_description": "1湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 30,
+    "recipe_name": "豉汁蒸倉魚",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 30,
+    "recipe_name": "豉汁蒸倉魚",
+    "ingredient_name": "倉魚",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 31,
+    "recipe_name": "臘腸雞肉飯",
+    "ingredient_name": "雞",
+    "ingredient_description": "半隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 31,
+    "recipe_name": "臘腸雞肉飯",
+    "ingredient_name": "臘腸",
+    "ingredient_description": "1-2條",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 31,
+    "recipe_name": "臘腸雞肉飯",
+    "ingredient_name": "冬菇",
+    "ingredient_description": "3-4粒",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 31,
+    "recipe_name": "臘腸雞肉飯",
+    "ingredient_name": "蔥",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 31,
+    "recipe_name": "臘腸雞肉飯",
+    "ingredient_name": "薑",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 31,
+    "recipe_name": "臘腸雞肉飯",
+    "ingredient_name": "米",
+    "ingredient_description": "(隨個人喜好)",
+    "ingredient_category_no": "1"
+  },
+  {
+    "recipe_id": 32,
+    "recipe_name": "魚頭豆腐湯",
+    "ingredient_name": "豆腐",
+    "ingredient_description": "1磚",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 32,
+    "recipe_name": "魚頭豆腐湯",
+    "ingredient_name": "大魚頭",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 32,
+    "recipe_name": "魚頭豆腐湯",
+    "ingredient_name": "中芹",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 32,
+    "recipe_name": "魚頭豆腐湯",
+    "ingredient_name": "薑",
+    "ingredient_description": "2片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 32,
+    "recipe_name": "魚頭豆腐湯",
+    "ingredient_name": "水",
+    "ingredient_description": "1000mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "牛仔骨",
+    "ingredient_description": "1包",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "半個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "紅椒",
+    "ingredient_description": "1個 (optional)",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "蒜頭",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "即磨黑椒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 33,
+    "recipe_name": "黑椒牛仔骨",
+    "ingredient_name": "老抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "豬肉火鍋片",
+    "ingredient_description": "1包",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "蒜",
+    "ingredient_description": "5-6 粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "1/2個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "蔥段",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "米酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 34,
+    "recipe_name": "乾蔥炒豬肉片 ",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 35,
+    "recipe_name": "蒜香牛肉秋葵卷 ",
+    "ingredient_name": "秋葵",
+    "ingredient_description": "12-14條 (揀長啲)",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 35,
+    "recipe_name": "蒜香牛肉秋葵卷 ",
+    "ingredient_name": "肥牛",
+    "ingredient_description": "12-14 片",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 35,
+    "recipe_name": "蒜香牛肉秋葵卷 ",
+    "ingredient_name": "蒜",
+    "ingredient_description": "5粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 35,
+    "recipe_name": "蒜香牛肉秋葵卷 ",
+    "ingredient_name": "乾蔥頭",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 35,
+    "recipe_name": "蒜香牛肉秋葵卷 ",
+    "ingredient_name": "白芝麻",
+    "ingredient_description": "(optional)",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "豆豉",
+    "ingredient_description": "湯匙",
+    "ingredient_category_no": "1"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4-5 粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "乾蔥頭",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "紅辣椒",
+    "ingredient_description": "2條",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "蜆",
+    "ingredient_description": "15-20隻",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "紹興酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 36,
+    "recipe_name": "豉椒炒蜆",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "茄子",
+    "ingredient_description": "1 條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "半肥瘦肉碎",
+    "ingredient_description": "$25",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "蒜頭",
+    "ingredient_description": "5-6 粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "薑",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "金不換",
+    "ingredient_description": "適量 (optional)",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "豆辦醬",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "鎮江醋",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 37,
+    "recipe_name": "魚香茄子煲 ",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 38,
+    "recipe_name": "紅燒豆腐",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 38,
+    "recipe_name": "紅燒豆腐",
+    "ingredient_name": "硬豆腐",
+    "ingredient_description": "2磚",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 38,
+    "recipe_name": "紅燒豆腐",
+    "ingredient_name": "半肥瘦肉碎",
+    "ingredient_description": "$20,  豆瓣醬6",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 38,
+    "recipe_name": "紅燒豆腐",
+    "ingredient_name": "蔥",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 39,
+    "recipe_name": "南瓜燴雞肉 (電飯煲)",
+    "ingredient_name": "南瓜",
+    "ingredient_description": "$10",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 39,
+    "recipe_name": "南瓜燴雞肉 (電飯煲)",
+    "ingredient_name": "雞柳",
+    "ingredient_description": "4-5條",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 39,
+    "recipe_name": "南瓜燴雞肉 (電飯煲)",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 39,
+    "recipe_name": "南瓜燴雞肉 (電飯煲)",
+    "ingredient_name": "蒜頭",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 39,
+    "recipe_name": "南瓜燴雞肉 (電飯煲)",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量 (optional)",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 39,
+    "recipe_name": "南瓜燴雞肉 (電飯煲)",
+    "ingredient_name": "鹽",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 39,
+    "recipe_name": "南瓜燴雞肉 (電飯煲)",
+    "ingredient_name": "黑椒",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "雞翼",
+    "ingredient_description": "12-14隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "薯仔",
+    "ingredient_description": "1 個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "甘荀",
+    "ingredient_description": "1 條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "蕃茄",
+    "ingredient_description": "1個(optional)",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "1 個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "蔥",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "檸檬葉",
+    "ingredient_description": "數片(optional)",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "椰漿",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "咖喱粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "水/雞湯",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 40,
+    "recipe_name": "咖喱雞翼",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 41,
+    "recipe_name": "蒜蓉粉絲蒸勝瓜",
+    "ingredient_name": "勝瓜",
+    "ingredient_description": "1 條,  甘荀2 少許 (optional)",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 41,
+    "recipe_name": "蒜蓉粉絲蒸勝瓜",
+    "ingredient_name": "蝦乾",
+    "ingredient_description": "6條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 41,
+    "recipe_name": "蒜蓉粉絲蒸勝瓜",
+    "ingredient_name": "瑤柱",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 41,
+    "recipe_name": "蒜蓉粉絲蒸勝瓜",
+    "ingredient_name": "粉絲",
+    "ingredient_description": "1包",
+    "ingredient_category_no": "1"
+  },
+  {
+    "recipe_id": 41,
+    "recipe_name": "蒜蓉粉絲蒸勝瓜",
+    "ingredient_name": "蒜",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 41,
+    "recipe_name": "蒜蓉粉絲蒸勝瓜",
+    "ingredient_name": "薑",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 41,
+    "recipe_name": "蒜蓉粉絲蒸勝瓜",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 42,
+    "recipe_name": "梅菜鯇魚蒸豆腐",
+    "ingredient_name": "鯇魚腩",
+    "ingredient_description": "1件",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 42,
+    "recipe_name": "梅菜鯇魚蒸豆腐",
+    "ingredient_name": "梅菜",
+    "ingredient_description": "1顆",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 42,
+    "recipe_name": "梅菜鯇魚蒸豆腐",
+    "ingredient_name": "蔥",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 42,
+    "recipe_name": "梅菜鯇魚蒸豆腐",
+    "ingredient_name": "薑",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 42,
+    "recipe_name": "梅菜鯇魚蒸豆腐",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 42,
+    "recipe_name": "梅菜鯇魚蒸豆腐",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 42,
+    "recipe_name": "梅菜鯇魚蒸豆腐",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "半肥瘦腩排",
+    "ingredient_description": "$60-70,  蒜6",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "辣椒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "蔥",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "麵豉醬",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "酸梅",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 43,
+    "recipe_name": "梅子蒸排骨",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 44,
+    "recipe_name": "XO醬鯪魚肉炒四季豆",
+    "ingredient_name": "鯪魚肉",
+    "ingredient_description": "半斤 (選已調味的鯪魚膠)",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 44,
+    "recipe_name": "XO醬鯪魚肉炒四季豆",
+    "ingredient_name": "豆角",
+    "ingredient_description": "2-3札",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 44,
+    "recipe_name": "XO醬鯪魚肉炒四季豆",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 44,
+    "recipe_name": "XO醬鯪魚肉炒四季豆",
+    "ingredient_name": "薑",
+    "ingredient_description": "2片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 44,
+    "recipe_name": "XO醬鯪魚肉炒四季豆",
+    "ingredient_name": "XO醬",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "雞翼",
+    "ingredient_description": "12-14隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "檸檬",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "蔥段",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "薑",
+    "ingredient_description": "3片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "冰糖/糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "可樂",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 45,
+    "recipe_name": "檸檬可樂雞翼",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "豬扒",
+    "ingredient_description": "3塊",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "蕃茄",
+    "ingredient_description": "3-4個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "蒜",
+    "ingredient_description": "5粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "鹽",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "茄汁",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 46,
+    "recipe_name": "蕃茄豬扒",
+    "ingredient_name": "水",
+    "ingredient_description": "半碗左右",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 47,
+    "recipe_name": "帶子炒西蘭花",
+    "ingredient_name": "帶子",
+    "ingredient_description": "8-10隻",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 47,
+    "recipe_name": "帶子炒西蘭花",
+    "ingredient_name": "西蘭花",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 47,
+    "recipe_name": "帶子炒西蘭花",
+    "ingredient_name": "黃椒",
+    "ingredient_description": "1個,薑6 2片",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 47,
+    "recipe_name": "帶子炒西蘭花",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 47,
+    "recipe_name": "帶子炒西蘭花",
+    "ingredient_name": "紹興酒",
+    "ingredient_description": "1湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "節瓜",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "冬菇",
+    "ingredient_description": "6隻",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "素雞",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "薑",
+    "ingredient_description": "3片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "雞湯/水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "糖",
+    "ingredient_description": "生粉6",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 48,
+    "recipe_name": "節瓜冬菇炆素雞",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "豬扒",
+    "ingredient_description": "3塊",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "小棠菜",
+    "ingredient_description": "4-5棵",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "薑",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "水/雞湯",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 49,
+    "recipe_name": "豬扒菜飯 ",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "雞翼",
+    "ingredient_description": "12-14隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "薯仔",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "甘荀",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "半個",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 50,
+    "recipe_name": "薯仔炆雞翼",
+    "ingredient_name": "水",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "大蝦",
+    "ingredient_description": "10隻",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "乾蔥頭",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "薑",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "茄汁",
+    "ingredient_description": "2湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "糖",
+    "ingredient_description": "1湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "喼汁",
+    "ingredient_description": "1湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 51,
+    "recipe_name": "茄汁蝦",
+    "ingredient_name": "水",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 52,
+    "recipe_name": "雞肉煎餅",
+    "ingredient_name": "雞柳",
+    "ingredient_description": "6條",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 52,
+    "recipe_name": "雞肉煎餅",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "半個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 52,
+    "recipe_name": "雞肉煎餅",
+    "ingredient_name": "雞蛋",
+    "ingredient_description": "1隻",
+    "ingredient_category_no": "5"
+  },
+  {
+    "recipe_id": 52,
+    "recipe_name": "雞肉煎餅",
+    "ingredient_name": "粟粉",
+    "ingredient_description": "3湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 52,
+    "recipe_name": "雞肉煎餅",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 52,
+    "recipe_name": "雞肉煎餅",
+    "ingredient_name": "黑椒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 52,
+    "recipe_name": "雞肉煎餅",
+    "ingredient_name": "油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "苦瓜",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "排骨",
+    "ingredient_description": "1斤左右",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "豆豉",
+    "ingredient_description": "1-2湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "蒜",
+    "ingredient_description": "3-4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "薑",
+    "ingredient_description": "4片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "花雕酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "雞湯油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 53,
+    "recipe_name": "豉椒苦瓜炆排骨",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 54,
+    "recipe_name": "南瓜炆排骨",
+    "ingredient_name": "豬腩排",
+    "ingredient_description": "$70",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 54,
+    "recipe_name": "南瓜炆排骨",
+    "ingredient_name": "南瓜",
+    "ingredient_description": "$10",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 54,
+    "recipe_name": "南瓜炆排骨",
+    "ingredient_name": "椰漿",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 54,
+    "recipe_name": "南瓜炆排骨",
+    "ingredient_name": "薑",
+    "ingredient_description": "2片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 54,
+    "recipe_name": "南瓜炆排骨",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 54,
+    "recipe_name": "南瓜炆排骨",
+    "ingredient_name": "水",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "豬手",
+    "ingredient_description": "1隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "薑",
+    "ingredient_description": "4 片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "蒜頭",
+    "ingredient_description": "5-6 粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "紅蔥頭",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "花生",
+    "ingredient_description": "4兩 (要大粒)",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "蔥段",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "紹興酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "南乳",
+    "ingredient_description": "1磚",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "冰糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "八角",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 55,
+    "recipe_name": "南乳花生炆豬手",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "冬瓜",
+    "ingredient_description": "半斤",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "瘦肉",
+    "ingredient_description": "$30-40",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "冬菇",
+    "ingredient_description": "5粒",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "瑤柱",
+    "ingredient_description": "5粒",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "蝦乾",
+    "ingredient_description": "5條",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "金華火腿",
+    "ingredient_description": "1塊",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "生粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 56,
+    "recipe_name": "冬瓜瑤柱冬菇瘦肉粒湯",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 57,
+    "recipe_name": "豉油雞",
+    "ingredient_name": "雞",
+    "ingredient_description": "半隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 57,
+    "recipe_name": "豉油雞",
+    "ingredient_name": "薑",
+    "ingredient_description": "8片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 57,
+    "recipe_name": "豉油雞",
+    "ingredient_name": "玫瑰露酒/紹興酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 57,
+    "recipe_name": "豉油雞",
+    "ingredient_name": "生抽",
+    "ingredient_description": "6匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 57,
+    "recipe_name": "豉油雞",
+    "ingredient_name": "老抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 57,
+    "recipe_name": "豉油雞",
+    "ingredient_name": "冰糖/糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 57,
+    "recipe_name": "豉油雞",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "豬腩排",
+    "ingredient_description": "$70-80 (要切大件)",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "蔥段",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "蒜",
+    "ingredient_description": "5粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "鎮江醋",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 58,
+    "recipe_name": "數字排骨",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 59,
+    "recipe_name": "蕃茄薯仔魚湯",
+    "ingredient_name": "蕃茄",
+    "ingredient_description": "3個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 59,
+    "recipe_name": "蕃茄薯仔魚湯",
+    "ingredient_name": "薯仔",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 59,
+    "recipe_name": "蕃茄薯仔魚湯",
+    "ingredient_name": "細條魚仔",
+    "ingredient_description": "1-2籃",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 59,
+    "recipe_name": "蕃茄薯仔魚湯",
+    "ingredient_name": "薑",
+    "ingredient_description": "4片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 59,
+    "recipe_name": "蕃茄薯仔魚湯",
+    "ingredient_name": "蔥",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 59,
+    "recipe_name": "蕃茄薯仔魚湯",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 60,
+    "recipe_name": "淮山杞子玉竹鵪鶉湯",
+    "ingredient_name": "淮山",
+    "ingredient_description": "6片",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 60,
+    "recipe_name": "淮山杞子玉竹鵪鶉湯",
+    "ingredient_name": "杞子",
+    "ingredient_description": "1湯匙",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 60,
+    "recipe_name": "淮山杞子玉竹鵪鶉湯",
+    "ingredient_name": "蜜棗",
+    "ingredient_description": "1粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 60,
+    "recipe_name": "淮山杞子玉竹鵪鶉湯",
+    "ingredient_name": "陳皮",
+    "ingredient_description": "1角",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 60,
+    "recipe_name": "淮山杞子玉竹鵪鶉湯",
+    "ingredient_name": "玉竹",
+    "ingredient_description": "2湯匙",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 60,
+    "recipe_name": "淮山杞子玉竹鵪鶉湯",
+    "ingredient_name": "鵪鶉",
+    "ingredient_description": "2隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 60,
+    "recipe_name": "淮山杞子玉竹鵪鶉湯",
+    "ingredient_name": "水",
+    "ingredient_description": "2000-2500mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 61,
+    "recipe_name": "合掌瓜粟米甘荀豬骨湯",
+    "ingredient_name": "合掌瓜",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 61,
+    "recipe_name": "合掌瓜粟米甘荀豬骨湯",
+    "ingredient_name": "甘荀",
+    "ingredient_description": "1條,  南北杏2 1湯匙",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 61,
+    "recipe_name": "合掌瓜粟米甘荀豬骨湯",
+    "ingredient_name": "粟米",
+    "ingredient_description": "1 條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 61,
+    "recipe_name": "合掌瓜粟米甘荀豬骨湯",
+    "ingredient_name": "豬骨",
+    "ingredient_description": "$60",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 62,
+    "recipe_name": "日月魚杞子龍眼肉淮山西施骨湯",
+    "ingredient_name": "日月魚",
+    "ingredient_description": "2紮",
+    "ingredient_category_no": "4"
+  },
+  {
+    "recipe_id": 62,
+    "recipe_name": "日月魚杞子龍眼肉淮山西施骨湯",
+    "ingredient_name": "龍眼肉",
+    "ingredient_description": "2湯匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 62,
+    "recipe_name": "日月魚杞子龍眼肉淮山西施骨湯",
+    "ingredient_name": "乾淮山",
+    "ingredient_description": "6片",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 62,
+    "recipe_name": "日月魚杞子龍眼肉淮山西施骨湯",
+    "ingredient_name": "杞子",
+    "ingredient_description": "1-2湯匙,  茨實2 1湯匙",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 62,
+    "recipe_name": "日月魚杞子龍眼肉淮山西施骨湯",
+    "ingredient_name": "蜜棗",
+    "ingredient_description": "1-2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 62,
+    "recipe_name": "日月魚杞子龍眼肉淮山西施骨湯",
+    "ingredient_name": "西施骨",
+    "ingredient_description": "$60",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "蕃茄",
+    "ingredient_description": "3個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "豬腰",
+    "ingredient_description": "2條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "薑",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "蒜",
+    "ingredient_description": "4粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "米酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "茄汁",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "鹽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 63,
+    "recipe_name": "蕃茄豬腰",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "五花腩",
+    "ingredient_description": "1 條",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "蒜",
+    "ingredient_description": "6 粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "紅蔥頭",
+    "ingredient_description": "6 粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "蔥",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "黑糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "米酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "胡椒粉",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 64,
+    "recipe_name": "滷肉飯",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "牛肋骨",
+    "ingredient_description": "1包",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "韓國梨/奇異果",
+    "ingredient_description": "1個/4個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "洋蔥",
+    "ingredient_description": "1個",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "蒜",
+    "ingredient_description": "6柆",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "薑",
+    "ingredient_description": "少許",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "甘荀",
+    "ingredient_description": "1條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "白蘿蔔",
+    "ingredient_description": "半條",
+    "ingredient_category_no": "2"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "蔥",
+    "ingredient_description": "2條",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "薑",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "豉油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "蠔油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "CornSyrup/蜜糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "麻油",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 65,
+    "recipe_name": "韓式牛肋骨",
+    "ingredient_name": "黑椒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "話梅",
+    "ingredient_description": "8-10粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "薑",
+    "ingredient_description": "適量",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "紅蔥頭",
+    "ingredient_description": "2粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "蒜",
+    "ingredient_description": "6粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "腩排",
+    "ingredient_description": "$90",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "鎮江醋",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "老抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "生抽",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "紹酒",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "冰糖",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 66,
+    "recipe_name": "話梅炆排骨",
+    "ingredient_name": "水",
+    "ingredient_description": "",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "雞",
+    "ingredient_description": "半隻",
+    "ingredient_category_no": "3"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "薑/老薑",
+    "ingredient_description": "10片",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "紅辣椒",
+    "ingredient_description": "2 條",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "蔥白",
+    "ingredient_description": "4-5 條",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "蒜",
+    "ingredient_description": "10 粒",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "麻油",
+    "ingredient_description": "15mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "粟米油",
+    "ingredient_description": "15mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "米酒",
+    "ingredient_description": "150mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "生抽",
+    "ingredient_description": "100mL",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "冰糖/糖",
+    "ingredient_description": "1粒/3茶匙",
+    "ingredient_category_no": "6"
+  },
+  {
+    "recipe_id": 67,
+    "recipe_name": "三杯雞",
+    "ingredient_name": "金不換",
+    "ingredient_description": "1包",
+    "ingredient_category_no": "6"
+  }
+]

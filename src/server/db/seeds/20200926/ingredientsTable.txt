@@ -1,0 +1,847 @@
+[
+  {
+    "id": 1,
+    "ingredient_name": "肥牛",
+    "category_id": "3"
+  },
+  {
+    "id": 2,
+    "ingredient_name": "大蔥",
+    "category_id": "6"
+  },
+  {
+    "id": 3,
+    "ingredient_name": "蒜",
+    "category_id": "6"
+  },
+  {
+    "id": 4,
+    "ingredient_name": "紅蔥頭",
+    "category_id": "6"
+  },
+  {
+    "id": 5,
+    "ingredient_name": "生抽",
+    "category_id": "6"
+  },
+  {
+    "id": 6,
+    "ingredient_name": "糖",
+    "category_id": "6"
+  },
+  {
+    "id": 7,
+    "ingredient_name": "蠔油",
+    "category_id": "6"
+  },
+  {
+    "id": 8,
+    "ingredient_name": "生粉",
+    "category_id": "6"
+  },
+  {
+    "id": 9,
+    "ingredient_name": "油",
+    "category_id": "6"
+  },
+  {
+    "id": 10,
+    "ingredient_name": "水",
+    "category_id": "6"
+  },
+  {
+    "id": 11,
+    "ingredient_name": "梅菜",
+    "category_id": "6"
+  },
+  {
+    "id": 12,
+    "ingredient_name": "菜心",
+    "category_id": "2"
+  },
+  {
+    "id": 13,
+    "ingredient_name": "布包豆腐",
+    "category_id": "5"
+  },
+  {
+    "id": 14,
+    "ingredient_name": "帶子",
+    "category_id": "4"
+  },
+  {
+    "id": 15,
+    "ingredient_name": "豆豉",
+    "category_id": "6"
+  },
+  {
+    "id": 16,
+    "ingredient_name": "胡椒粉",
+    "category_id": "6"
+  },
+  {
+    "id": 17,
+    "ingredient_name": "鮮魷",
+    "category_id": "4"
+  },
+  {
+    "id": 18,
+    "ingredient_name": "薑",
+    "category_id": "6"
+  },
+  {
+    "id": 19,
+    "ingredient_name": "蔥",
+    "category_id": "6"
+  },
+  {
+    "id": 20,
+    "ingredient_name": "粉絲",
+    "category_id": "1"
+  },
+  {
+    "id": 21,
+    "ingredient_name": "蝦醬",
+    "category_id": "6"
+  },
+  {
+    "id": 22,
+    "ingredient_name": "牛柳粒",
+    "category_id": "3"
+  },
+  {
+    "id": 23,
+    "ingredient_name": "豉油",
+    "category_id": "6"
+  },
+  {
+    "id": 24,
+    "ingredient_name": "黑椒粉",
+    "category_id": "6"
+  },
+  {
+    "id": 25,
+    "ingredient_name": "蝦",
+    "category_id": "6"
+  },
+  {
+    "id": 26,
+    "ingredient_name": "鹽",
+    "category_id": "6"
+  },
+  {
+    "id": 27,
+    "ingredient_name": "銀魚仔",
+    "category_id": "4"
+  },
+  {
+    "id": 28,
+    "ingredient_name": "辣椒",
+    "category_id": "6"
+  },
+  {
+    "id": 29,
+    "ingredient_name": "蕃茄",
+    "category_id": "2"
+  },
+  {
+    "id": 30,
+    "ingredient_name": "蛋",
+    "category_id": "5"
+  },
+  {
+    "id": 31,
+    "ingredient_name": "茄汁",
+    "category_id": "6"
+  },
+  {
+    "id": 32,
+    "ingredient_name": "油麥菜",
+    "category_id": "2"
+  },
+  {
+    "id": 33,
+    "ingredient_name": "馬友",
+    "category_id": "4"
+  },
+  {
+    "id": 34,
+    "ingredient_name": "陳皮",
+    "category_id": "6"
+  },
+  {
+    "id": 35,
+    "ingredient_name": "蒸魚豉油",
+    "category_id": "6"
+  },
+  {
+    "id": 36,
+    "ingredient_name": "蒜頭",
+    "category_id": "6"
+  },
+  {
+    "id": 37,
+    "ingredient_name": "豆腐",
+    "category_id": "5"
+  },
+  {
+    "id": 38,
+    "ingredient_name": "半肥瘦肉碎",
+    "category_id": "3"
+  },
+  {
+    "id": 39,
+    "ingredient_name": "豆瓣醬",
+    "category_id": "6"
+  },
+  {
+    "id": 40,
+    "ingredient_name": "石蚌",
+    "category_id": "4"
+  },
+  {
+    "id": 41,
+    "ingredient_name": "雞湯",
+    "category_id": "6"
+  },
+  {
+    "id": 42,
+    "ingredient_name": "新鮮蝦",
+    "category_id": "4"
+  },
+  {
+    "id": 43,
+    "ingredient_name": "青根仔",
+    "category_id": "4"
+  },
+  {
+    "id": 44,
+    "ingredient_name": "皮蛋",
+    "category_id": "5"
+  },
+  {
+    "id": 45,
+    "ingredient_name": "咸蛋",
+    "category_id": "5"
+  },
+  {
+    "id": 46,
+    "ingredient_name": "菠菜",
+    "category_id": "2"
+  },
+  {
+    "id": 47,
+    "ingredient_name": "水/雞湯",
+    "category_id": "6"
+  },
+  {
+    "id": 48,
+    "ingredient_name": "通菜",
+    "category_id": "2"
+  },
+  {
+    "id": 49,
+    "ingredient_name": "腐乳",
+    "category_id": "6"
+  },
+  {
+    "id": 50,
+    "ingredient_name": "白菜",
+    "category_id": "2"
+  },
+  {
+    "id": 51,
+    "ingredient_name": "半肥瘦豬肉碎",
+    "category_id": "3"
+  },
+  {
+    "id": 52,
+    "ingredient_name": "豆辦醬",
+    "category_id": "6"
+  },
+  {
+    "id": 53,
+    "ingredient_name": "玫瑰露酒/米酒",
+    "category_id": "6"
+  },
+  {
+    "id": 54,
+    "ingredient_name": "娃娃菜",
+    "category_id": "2"
+  },
+  {
+    "id": 55,
+    "ingredient_name": "冬菇",
+    "category_id": "2"
+  },
+  {
+    "id": 56,
+    "ingredient_name": "蝦乾",
+    "category_id": "4"
+  },
+  {
+    "id": 57,
+    "ingredient_name": "瑤柱",
+    "category_id": "4"
+  },
+  {
+    "id": 58,
+    "ingredient_name": "雞蛋",
+    "category_id": "5"
+  },
+  {
+    "id": 59,
+    "ingredient_name": "蝦",
+    "category_id": "4"
+  },
+  {
+    "id": 60,
+    "ingredient_name": "西芹",
+    "category_id": "2"
+  },
+  {
+    "id": 61,
+    "ingredient_name": "雞柳",
+    "category_id": "4"
+  },
+  {
+    "id": 62,
+    "ingredient_name": "雞髀",
+    "category_id": "3"
+  },
+  {
+    "id": 63,
+    "ingredient_name": "蜜糖",
+    "category_id": "6"
+  },
+  {
+    "id": 64,
+    "ingredient_name": "紅椒",
+    "category_id": "2"
+  },
+  {
+    "id": 65,
+    "ingredient_name": "黃椒",
+    "category_id": "2"
+  },
+  {
+    "id": 66,
+    "ingredient_name": "青椒",
+    "category_id": "2"
+  },
+  {
+    "id": 67,
+    "ingredient_name": "洋蔥",
+    "category_id": "2"
+  },
+  {
+    "id": 68,
+    "ingredient_name": "喼汁",
+    "category_id": "6"
+  },
+  {
+    "id": 69,
+    "ingredient_name": "米酒",
+    "category_id": "6"
+  },
+  {
+    "id": 70,
+    "ingredient_name": "黑胡椒粉",
+    "category_id": "6"
+  },
+  {
+    "id": 71,
+    "ingredient_name": "白胡椒粉",
+    "category_id": "6"
+  },
+  {
+    "id": 72,
+    "ingredient_name": "花甲",
+    "category_id": "4"
+  },
+  {
+    "id": 73,
+    "ingredient_name": "白蘿蔔",
+    "category_id": "2"
+  },
+  {
+    "id": 74,
+    "ingredient_name": "乾蔥頭",
+    "category_id": "6"
+  },
+  {
+    "id": 75,
+    "ingredient_name": "蔥白",
+    "category_id": "6"
+  },
+  {
+    "id": 76,
+    "ingredient_name": "唐芹",
+    "category_id": "2"
+  },
+  {
+    "id": 77,
+    "ingredient_name": "紹興酒",
+    "category_id": "6"
+  },
+  {
+    "id": 78,
+    "ingredient_name": "麻油",
+    "category_id": "6"
+  },
+  {
+    "id": 79,
+    "ingredient_name": "棕磨菇",
+    "category_id": "2"
+  },
+  {
+    "id": 80,
+    "ingredient_name": "素雞",
+    "category_id": "2"
+  },
+  {
+    "id": 81,
+    "ingredient_name": "果皮",
+    "category_id": "6"
+  },
+  {
+    "id": 82,
+    "ingredient_name": "倉魚",
+    "category_id": "4"
+  },
+  {
+    "id": 83,
+    "ingredient_name": "雞",
+    "category_id": "3"
+  },
+  {
+    "id": 84,
+    "ingredient_name": "臘腸",
+    "category_id": "3"
+  },
+  {
+    "id": 85,
+    "ingredient_name": "米",
+    "category_id": "1"
+  },
+  {
+    "id": 86,
+    "ingredient_name": "大魚頭",
+    "category_id": "4"
+  },
+  {
+    "id": 87,
+    "ingredient_name": "中芹",
+    "category_id": "2"
+  },
+  {
+    "id": 88,
+    "ingredient_name": "牛仔骨",
+    "category_id": "3"
+  },
+  {
+    "id": 89,
+    "ingredient_name": "即磨黑椒",
+    "category_id": "6"
+  },
+  {
+    "id": 90,
+    "ingredient_name": "老抽",
+    "category_id": "6"
+  },
+  {
+    "id": 91,
+    "ingredient_name": "豬肉火鍋片",
+    "category_id": "3"
+  },
+  {
+    "id": 92,
+    "ingredient_name": "蔥段",
+    "category_id": "6"
+  },
+  {
+    "id": 93,
+    "ingredient_name": "秋葵",
+    "category_id": "2"
+  },
+  {
+    "id": 94,
+    "ingredient_name": "白芝麻",
+    "category_id": "6"
+  },
+  {
+    "id": 95,
+    "ingredient_name": "豆豉",
+    "category_id": "1"
+  },
+  {
+    "id": 96,
+    "ingredient_name": "紅辣椒",
+    "category_id": "6"
+  },
+  {
+    "id": 97,
+    "ingredient_name": "蜆",
+    "category_id": "4"
+  },
+  {
+    "id": 98,
+    "ingredient_name": "茄子",
+    "category_id": "2"
+  },
+  {
+    "id": 99,
+    "ingredient_name": "金不換",
+    "category_id": "6"
+  },
+  {
+    "id": 100,
+    "ingredient_name": "鎮江醋",
+    "category_id": "6"
+  },
+  {
+    "id": 101,
+    "ingredient_name": "硬豆腐",
+    "category_id": "5"
+  },
+  {
+    "id": 102,
+    "ingredient_name": "南瓜",
+    "category_id": "2"
+  },
+  {
+    "id": 103,
+    "ingredient_name": "雞柳",
+    "category_id": "3"
+  },
+  {
+    "id": 104,
+    "ingredient_name": "黑椒",
+    "category_id": "6"
+  },
+  {
+    "id": 105,
+    "ingredient_name": "雞翼",
+    "category_id": "3"
+  },
+  {
+    "id": 106,
+    "ingredient_name": "薯仔",
+    "category_id": "2"
+  },
+  {
+    "id": 107,
+    "ingredient_name": "甘荀",
+    "category_id": "2"
+  },
+  {
+    "id": 108,
+    "ingredient_name": "檸檬葉",
+    "category_id": "6"
+  },
+  {
+    "id": 109,
+    "ingredient_name": "椰漿",
+    "category_id": "6"
+  },
+  {
+    "id": 110,
+    "ingredient_name": "咖喱粉",
+    "category_id": "6"
+  },
+  {
+    "id": 111,
+    "ingredient_name": "勝瓜",
+    "category_id": "2"
+  },
+  {
+    "id": 112,
+    "ingredient_name": "鯇魚腩",
+    "category_id": "4"
+  },
+  {
+    "id": 113,
+    "ingredient_name": "半肥瘦腩排",
+    "category_id": "3"
+  },
+  {
+    "id": 114,
+    "ingredient_name": "麵豉醬",
+    "category_id": "6"
+  },
+  {
+    "id": 115,
+    "ingredient_name": "酸梅",
+    "category_id": "6"
+  },
+  {
+    "id": 116,
+    "ingredient_name": "鯪魚肉",
+    "category_id": "4"
+  },
+  {
+    "id": 117,
+    "ingredient_name": "豆角",
+    "category_id": "2"
+  },
+  {
+    "id": 118,
+    "ingredient_name": "XO醬",
+    "category_id": "6"
+  },
+  {
+    "id": 119,
+    "ingredient_name": "檸檬",
+    "category_id": "2"
+  },
+  {
+    "id": 120,
+    "ingredient_name": "冰糖/糖",
+    "category_id": "6"
+  },
+  {
+    "id": 121,
+    "ingredient_name": "可樂",
+    "category_id": "6"
+  },
+  {
+    "id": 122,
+    "ingredient_name": "豬扒",
+    "category_id": "3"
+  },
+  {
+    "id": 123,
+    "ingredient_name": "西蘭花",
+    "category_id": "2"
+  },
+  {
+    "id": 124,
+    "ingredient_name": "節瓜",
+    "category_id": "2"
+  },
+  {
+    "id": 125,
+    "ingredient_name": "雞湯/水",
+    "category_id": "6"
+  },
+  {
+    "id": 126,
+    "ingredient_name": "小棠菜",
+    "category_id": "2"
+  },
+  {
+    "id": 127,
+    "ingredient_name": "洋蔥",
+    "category_id": "3"
+  },
+  {
+    "id": 128,
+    "ingredient_name": "大蝦",
+    "category_id": "4"
+  },
+  {
+    "id": 129,
+    "ingredient_name": "粟粉",
+    "category_id": "6"
+  },
+  {
+    "id": 130,
+    "ingredient_name": "苦瓜",
+    "category_id": "2"
+  },
+  {
+    "id": 131,
+    "ingredient_name": "排骨",
+    "category_id": "3"
+  },
+  {
+    "id": 132,
+    "ingredient_name": "花雕酒",
+    "category_id": "6"
+  },
+  {
+    "id": 133,
+    "ingredient_name": "雞湯油",
+    "category_id": "6"
+  },
+  {
+    "id": 134,
+    "ingredient_name": "豬腩排",
+    "category_id": "3"
+  },
+  {
+    "id": 135,
+    "ingredient_name": "豬手",
+    "category_id": "3"
+  },
+  {
+    "id": 136,
+    "ingredient_name": "花生",
+    "category_id": "2"
+  },
+  {
+    "id": 137,
+    "ingredient_name": "南乳",
+    "category_id": "6"
+  },
+  {
+    "id": 138,
+    "ingredient_name": "冰糖",
+    "category_id": "6"
+  },
+  {
+    "id": 139,
+    "ingredient_name": "八角",
+    "category_id": "6"
+  },
+  {
+    "id": 140,
+    "ingredient_name": "冬瓜",
+    "category_id": "2"
+  },
+  {
+    "id": 141,
+    "ingredient_name": "瘦肉",
+    "category_id": "3"
+  },
+  {
+    "id": 142,
+    "ingredient_name": "金華火腿",
+    "category_id": "3"
+  },
+  {
+    "id": 143,
+    "ingredient_name": "玫瑰露酒/紹興酒",
+    "category_id": "6"
+  },
+  {
+    "id": 144,
+    "ingredient_name": "酒",
+    "category_id": "6"
+  },
+  {
+    "id": 145,
+    "ingredient_name": "細條魚仔",
+    "category_id": "4"
+  },
+  {
+    "id": 146,
+    "ingredient_name": "淮山",
+    "category_id": "2"
+  },
+  {
+    "id": 147,
+    "ingredient_name": "杞子",
+    "category_id": "2"
+  },
+  {
+    "id": 148,
+    "ingredient_name": "蜜棗",
+    "category_id": "6"
+  },
+  {
+    "id": 149,
+    "ingredient_name": "玉竹",
+    "category_id": "2"
+  },
+  {
+    "id": 150,
+    "ingredient_name": "鵪鶉",
+    "category_id": "3"
+  },
+  {
+    "id": 151,
+    "ingredient_name": "合掌瓜",
+    "category_id": "2"
+  },
+  {
+    "id": 152,
+    "ingredient_name": "粟米",
+    "category_id": "2"
+  },
+  {
+    "id": 153,
+    "ingredient_name": "豬骨",
+    "category_id": "3"
+  },
+  {
+    "id": 154,
+    "ingredient_name": "日月魚",
+    "category_id": "4"
+  },
+  {
+    "id": 155,
+    "ingredient_name": "龍眼肉",
+    "category_id": "6"
+  },
+  {
+    "id": 156,
+    "ingredient_name": "乾淮山",
+    "category_id": "2"
+  },
+  {
+    "id": 157,
+    "ingredient_name": "西施骨",
+    "category_id": "3"
+  },
+  {
+    "id": 158,
+    "ingredient_name": "豬腰",
+    "category_id": "2"
+  },
+  {
+    "id": 159,
+    "ingredient_name": "薑",
+    "category_id": "2"
+  },
+  {
+    "id": 160,
+    "ingredient_name": "五花腩",
+    "category_id": "3"
+  },
+  {
+    "id": 161,
+    "ingredient_name": "黑糖",
+    "category_id": "6"
+  },
+  {
+    "id": 162,
+    "ingredient_name": "牛肋骨",
+    "category_id": "3"
+  },
+  {
+    "id": 163,
+    "ingredient_name": "韓國梨/奇異果",
+    "category_id": "2"
+  },
+  {
+    "id": 164,
+    "ingredient_name": "CornSyrup/蜜糖",
+    "category_id": "6"
+  },
+  {
+    "id": 165,
+    "ingredient_name": "話梅",
+    "category_id": "6"
+  },
+  {
+    "id": 166,
+    "ingredient_name": "腩排",
+    "category_id": "3"
+  },
+  {
+    "id": 167,
+    "ingredient_name": "紹酒",
+    "category_id": "6"
+  },
+  {
+    "id": 168,
+    "ingredient_name": "薑/老薑",
+    "category_id": "6"
+  },
+  {
+    "id": 169,
+    "ingredient_name": "粟米油",
+    "category_id": "6"
+  }
+]
