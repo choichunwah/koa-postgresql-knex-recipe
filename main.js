@@ -5,7 +5,7 @@ import recipesRoutes from './src/server/routes/recipes.js';
 
 // Const
 const app = new Koa();
-const PORT = 3000;
+const PORT = 8000;
 
 // Middleware
 app.use(indexRoutes.routes());
