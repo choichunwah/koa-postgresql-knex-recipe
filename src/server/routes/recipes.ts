@@ -3,7 +3,7 @@ import Router from 'koa-router';
 const router = new Router();
 
 // Services
-import * as queries from '../db/queries/recipes.js';
+import * as queries from '../db/queries/recipes';
 
 // Const 
 const BASE_URL = `/recipes`;

@@ -2,8 +2,8 @@
 import Koa from 'koa';
 
 // Route
-import indexRoutes from './src/server/routes/index.js';
-import recipesRoutes from './src/server/routes/recipes.js';
+import indexRoutes from './src/server/routes/index';
+import recipesRoutes from './src/server/routes/recipes';
 
 // Const
 const app = new Koa();

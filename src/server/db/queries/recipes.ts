@@ -1,4 +1,4 @@
-import myKnex from '../connection.js';
+import myKnex from '../connection';
 
 export const getAllRecipes = () => {
     return myKnex('recipes')
