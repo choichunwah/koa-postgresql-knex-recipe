@@ -16,3 +16,6 @@
 
 ### An example Koa application that glues together Koa + Postgres + good defaults + common abstractions
 > https://github.com/danneu/koa-skeleton
+
+### nodejs - error self signed certificate in certificate chain
+> https://stackoverflow.com/questions/45088006/nodejs-error-self-signed-certificate-in-certificate-chain

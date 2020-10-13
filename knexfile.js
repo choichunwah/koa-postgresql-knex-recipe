@@ -39,7 +39,7 @@ const knexFile = {
         client: 'pg',
         // connection: `postgres://${process.env.LOCAL_DB_USER}:${process.env.LOCAL_DB_PASS}@${process.env.LOCAL_DB_HOST}:5432/${process.env.LOCAL_DB_DB}`,
         // connection: `postgres://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:5432/${process.env.DB_DB}`,
-        connection: `${DB_URL}${ssl}`,
+        connection: `${DATABASE_URL}${ssl}`,
         migrations: {
             directory: path.join(BASE_PATH, 'migrations')
         },
