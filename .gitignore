@@ -19,3 +19,5 @@ config/database.yml
 /db/*.sqlite3
 *.tmp
 node_modules
+.vscode
+.vscode/
