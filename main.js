@@ -1,7 +1,7 @@
 // Lib
 import Koa from 'koa';
 import indexRoutes from './src/server/routes/index.js';
-import recipesRoutes from './src/server/routes/recipes.js';
+// import recipesRoutes from './src/server/routes/recipes.js';
 
 // Const
 const app = new Koa();
