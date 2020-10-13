@@ -5,7 +5,7 @@ import indexRoutes from './src/server/routes/index.js';
 
 // Const
 const app = new Koa();
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 
 // Middleware
 app.use(indexRoutes.routes());
