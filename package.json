@@ -1,0 +1,22 @@
+{
+  "name": "koa-postgresql-knex-recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choichunwah/koa-postgresql-knex-recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choichunwah/koa-postgresql-knex-recipe/issues"
+  },
+  "homepage": "https://github.com/choichunwah/koa-postgresql-knex-recipe#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
